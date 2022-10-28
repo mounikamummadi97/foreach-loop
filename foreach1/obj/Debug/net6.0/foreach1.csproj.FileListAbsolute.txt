@@ -1,0 +1,15 @@
+D:\c# code\foreach1\foreach1\bin\Debug\net6.0\foreach1.exe
+D:\c# code\foreach1\foreach1\bin\Debug\net6.0\foreach1.deps.json
+D:\c# code\foreach1\foreach1\bin\Debug\net6.0\foreach1.runtimeconfig.json
+D:\c# code\foreach1\foreach1\bin\Debug\net6.0\foreach1.dll
+D:\c# code\foreach1\foreach1\bin\Debug\net6.0\foreach1.pdb
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.csproj.AssemblyReference.cache
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.AssemblyInfoInputs.cache
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.AssemblyInfo.cs
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.csproj.CoreCompileInputs.cache
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.dll
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\refint\foreach1.dll
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.pdb
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\foreach1.genruntimeconfig.cache
+D:\c# code\foreach1\foreach1\obj\Debug\net6.0\ref\foreach1.dll
